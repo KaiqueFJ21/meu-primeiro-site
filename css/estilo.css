@@ -12,7 +12,7 @@ a:hover{
 /* grid 960 */
 .linha{
 	width: 960px
-	margin: 50 auto;
+	margin: 0 auto;
 	overflow: auto;
 	padding: 5px 0;
 }
@@ -58,9 +58,9 @@ a:hover{
 }
 /* estilos reutilizaveis */
 .sem-padding{
-	padding: 0 !important;
+	padding: 5 !important;
 }
 .sem-margin{
-	margin: 0 !important;
+	margin: 5 !important;
 }
 h1, h2, h3, h4
