@@ -58,9 +58,9 @@ a:hover{
 }
 /* estilos reutilizaveis */
 .sem-padding{
-	padding: 0 !important;
+	padding: 10 !important;
 }
 .sem-margin{
-	margin: 0 !important;
+	margin: 10 !important;
 }
 h1, h2, h3, h4
